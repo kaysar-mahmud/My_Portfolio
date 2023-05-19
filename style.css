@@ -1,0 +1,163 @@
+ 
+body{
+  
+    margin: 0;
+}
+
+
+
+
+.position-style{
+    display: inline;
+    float:right;
+    text-decoration: none;
+padding: 12px 22px; 
+}
+
+ 
+
+h1{font-size: 70px;
+     font-family: 'Acme', sans-serif;
+  font-family: 'Bebas Neue', cursive;
+  font-family: 'Poor Story', cursive;
+
+    
+}
+h6{
+  font-size: 20px;
+}
+h2{ font-size: 45px;
+  font-family: 'Acme', sans-serif;
+  font-family: 'Bebas Neue', cursive;
+  font-family: 'Poor Story', cursive;}
+
+ .flexible-container
+ {
+    display:flex;
+    padding: 7%;
+    background-image: url(https://th.bing.com/th/id/R.2db5ff2e313d66fde7296a1db887b90f?rik=ileLz9qaCYDy%2fA&pid=ImgRaw&r=0);
+}
+ .half-width{
+    width: 50%;
+ }
+
+ img
+ {
+    width: 60%;
+    border-radius: 70%;
+ }
+ .link
+ {
+    text-decoration :none;
+    padding: 10px 50px;
+    background-color: rgb(14, 174, 232);
+  border-radius:10px;
+  color: white;
+ }
+.text-white{
+    color: rgb(78, 78, 164);
+}
+ 
+ 
+
+ a.btn{
+    text-decoration: none;
+    color: rgb(21, 216, 216);
+    padding: 10px 10px;
+
+ }
+  .Home{
+    background-color: blueviolet;
+  }
+  .About{
+    background-color: black;
+  }
+  .Contact{
+    background-color: brown;
+  }
+  .Service{
+    background-color: rgb(45, 92, 3);
+  }
+ 
+  .bg-gradiant
+  {
+background-color: aquamarine;
+height: 100vh;
+width: 100%;
+ 
+
+  }
+  .specialized-head{
+    text-align: center;
+    padding: 4%;
+}
+.parent{
+  display: flex;
+}
+.child{
+  
+
+background-color: rgb(34, 182, 223);
+ margin: 5%;
+ padding: 50px;
+}
+
+
+
+.footer{
+  background-color: black;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 0.8rem;
+
+}
+
+.footer-menu a{
+  display: block;
+  margin: 15px 0;
+  font-size: 1rem;
+}
+
+.footer-menu a:hover{
+  color: gray;
+}
+
+.footer::after{
+  display: table;
+  content: '';
+  clear: both;
+}
+
+
+
+
+ 
+.achievemnet-contact{
+  padding: 1% 7%;
+  background-color: #0b0d0f;
+  color: rgb(173, 123, 15);
+}
+
+.contact{
+  text-align: center;
+}
+
+.contact input, textarea{
+  width: 100%;
+  padding: 16px;
+  font-size: 1rem;
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+  resize: none;
+}
+
+
+h4{
+  font-family: 'Acme', sans-serif;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Poor Story', cursive;
+font-size: 40px;
+}
+ 
